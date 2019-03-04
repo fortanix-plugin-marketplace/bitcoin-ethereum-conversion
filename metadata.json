@@ -1,0 +1,7 @@
+{
+		"name": "Ethereum HD wallet key derivation plugin",
+		"author": "Fortanix",
+		"description": "Ethereum HD wallet key derivation plugin allows to derive ethereum private key from master key",
+		"keywords": ["BlockChain"],
+		"plugin": "key_derivation.lua"
+}
