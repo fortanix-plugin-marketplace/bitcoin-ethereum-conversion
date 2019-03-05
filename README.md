@@ -1,5 +1,5 @@
 # Hierarchical Deterministic (HD) wallets Plugin
-This plugin allows you to derive BIP32 child key pair (xprv, xpub) from BIP32 master key
+This plugin derive BIP32 child key (xprv) and convert it into ethereum private key from BIP32 master key
 ## Initial setup
 * import BIP32 master key in SDKMS as secrete object in raw byte format
 
